@@ -10,3 +10,7 @@ Após abrir um dos projetos no vs code, alterar o ip (está em todas as funçõe
 Com o ip alterado, basta iniciar o servidor node.js digitando "node index.js" no terminal com o diretorio da pasta backend.
 
 Feito esses procedimentos, basta starta o android studio e iniciar o projeto para utilizar o sistema.
+
+Resumindamente o Flutter realiza cadastros dos medicos, farmaceuticos, enfermeiros e pacientes. Cada um tem suas funcionalidades. o medico tem o controle de receitas, o farmaceutico o controle do esqtoque de remedios, o enfermeiro controla os prontuarios dos pacientes junto ao médico e os pacientes conseguem verificar as informações de seus prontuarios.
+
+e o FlutterWebSearch é uma consulta dos pacientes no sistema integrado pela Web.
