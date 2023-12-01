@@ -14,3 +14,7 @@ Feito esses procedimentos, basta starta o android studio e iniciar o projeto par
 Resumindamente o Flutter realiza cadastros dos medicos, farmaceuticos, enfermeiros e pacientes. Cada um tem suas funcionalidades. o medico tem o controle de receitas, o farmaceutico o controle do esqtoque de remedios, o enfermeiro controla os prontuarios dos pacientes junto ao médico e os pacientes conseguem verificar as informações de seus prontuarios.
 
 e o FlutterWebSearch é uma consulta dos pacientes no sistema integrado pela Web.
+
+Os sistemas atende todos os requisitos solicitados pelos professores Anderson e Wilson, como apresentado em aula.
+
+Grupo: Eduardo Cardoso Agostinetti e Pedro Henrique Ferri.
